@@ -1,0 +1,38 @@
+{
+  "name": "rspack-issue-font",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build"
+  },
+  "dependencies": {
+    "element-ui": "^2.15.14",
+    "vue": "^2.7.14",
+    "vue-router": "^3.6.5"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.3.6",
+    "@ttou/define-config": "^3.2.0",
+    "@ttou/element2-typings": "^2.2.2",
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
+    "@typescript-eslint/parser": "^6.7.4",
+    "@vue/eslint-config-typescript": "^12.0.0",
+    "css-loader": "^6.7.4",
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-vue": "^9.17.0",
+    "postcss": "^8.4.31",
+    "postcss-html": "^1.5.0",
+    "postcss-loader": "^7.3.3",
+    "postcss-nested": "^6.0.1",
+    "postcss-scss": "^4.0.9",
+    "prettier": "^3.0.2",
+    "sass": "~1.32.13",
+    "sass-loader": "^13.3.2",
+    "typescript": "^4.9.5",
+    "unplugin-vue-components": "^0.25.2",
+    "vue-loader": "^15.10.1",
+    "vue-style-loader": "^4.1.3"
+  }
+}
